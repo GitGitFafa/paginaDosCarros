@@ -1,0 +1,60 @@
+/* CONFIGURAÇÕES BÁSICAS DO BODY */
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: arial;
+}
+
+html{
+  background-color:  #febe01;
+}
+/* CONFIGURAÇÕES BÁSICAS DO H1 */
+h1 {
+  text-align: center;
+  padding: 0px;
+  display: block;
+}
+
+/* CONFIGURAÇÕES DA CLASSE BLOCO */
+.bloco {
+  margin: 2%;
+  background-color: black;
+  border-radius: 4px;
+  color: white;
+  font-size: 14px;
+  display: block;
+  padding-block: 6px 6px;
+}
+
+/* CONFIGURAÇÕES DO ELEMENTO SPAN */
+.preco,
+.ano,
+.quilometragem {
+  color: #febe01;
+}
+
+/* CONFIGURAÇÕES DOS BOTÕES */
+a {
+  text-decoration: none;
+  background-color: #febe01;
+  color: #332200;
+  border-radius: 4px;
+  padding: 10px 20px;
+  display: inline-block;
+}
+
+/* CONFIGURAÇÕES DO TEXTO DESCRITIVO */
+.descricao{
+  color: #b2b2b2;
+}
+
+/* AJUSTANDO A CLASSE PRODUTO */
+.produto {
+  margin: 0;
+}
+
+/* CONFIGURAÇÕES DO CONTEÚDO */
+.content{
+  margin-left: 5px;
+  padding: 20px;
+}
